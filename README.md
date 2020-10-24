@@ -1,4 +1,4 @@
-## 👋 &nbsp HI ! I'm Khanh Nguyen
+## 👋 &nbspHI ! I'm Khanh Nguyen
 ### 👨🏻‍💻 
 
 &nbsp;About Me
