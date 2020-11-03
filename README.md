@@ -4,8 +4,7 @@
 &nbsp;About Me
 
 I'm a Front End Developer at ISB. 
-Now I'm focusing to React and React Native and I was starting to love React Native along with interesting animation, beautiful UI,.. so I decided to spend a lot of time on learning React, React Native and Typescript. 
-
+ VueJS,ReactJS & React Native are my current passions.
 **Languages*
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
