@@ -10,7 +10,7 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emonno13&show_icons=true&theme=tokyonight&bg_color=0,F58529,FEDA77,DD2A7B,8134AF,515BD4&text_color=black&icon_color=black&title_color=515BD4&border_color=515BD4)
  -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emonno13&show_icons=true&theme=tokyonight)  &nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emonno13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emonno13&show_icons=true&theme=tokyonight)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emonno13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
