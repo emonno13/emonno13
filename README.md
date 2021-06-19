@@ -1,4 +1,4 @@
-## 👋 Nice to meet you! I'm Khanh Nguyen
+## Nice to meet you !! I'm Khanh Nguyen
 ### 👨🏻‍💻 &nbsp;About Me
 
 &nbsp;A Front End Developer. 
@@ -11,7 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emonno13&show_icons=true&theme=tokyonight)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emonno13&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-**Tech Stacks**
+### 💻 &nbsp;Tech Stacks
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -29,6 +29,9 @@
 ![Styled-component](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
 ![SaSS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
 <!-- 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=delta94&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,F58529,FEDA77,DD2A7B,8134AF,515BD4&theme=graywhite" /> &nbsp; <img align=""
 height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=delta94&hide_title=true&layout=compact&bg_color=0,FF6962,FF7974,FF8986,FF9997,FFA9A9&theme=graywhite" /> -->
@@ -43,7 +46,7 @@ Here are some ideas to get you started:
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/emonno13)
 ![Followers](https://img.shields.io/github/followers/emonno13?style=social)
 <!-- - 📫 How to reach me: [**Facebook**] (https://www.facebook.com/duykhanhkobocuoc/) -->
-- 📫Reach me by clicking icons below: 
+- 📫Reach me at: 
 
 
 <a href="https://www.linkedin.com/in/khanh-nguyen-660425133/" target="_blank" style="text-decoration: none !important">
