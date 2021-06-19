@@ -39,4 +39,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Front-end Developer in Ho Chi Minh City, Viet Nam
 - 🌱 I’m currently learning React, Typescript, React Native
 <!-- - 📫 How to reach me: [**Facebook**] (https://www.facebook.com/duykhanhkobocuoc/) -->
-- 📫 How to reach me: <a href="https://www.facebook.com/duykhanhkobocuoc/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+- 📫 How to reach me: 
+<a href="https://www.facebook.com/duykhanhkobocuoc/">
+ <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/khanh.duy.doan/">
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
