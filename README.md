@@ -28,6 +28,10 @@
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
 
+![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+![Styled-component](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![SaSS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+
 <!-- 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=delta94&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,F58529,FEDA77,DD2A7B,8134AF,515BD4&theme=graywhite" /> &nbsp; <img align=""
 height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=delta94&hide_title=true&layout=compact&bg_color=0,FF6962,FF7974,FF8986,FF9997,FFA9A9&theme=graywhite" /> -->
