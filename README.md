@@ -5,7 +5,8 @@
 
 &nbsp;A Front End Developer. 
 
-&nbsp;VueJS, ReactJS && React Native are my passions.
+&nbsp;❤ VueJS ❤ ReactJS ❤ React Native ❤
+
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emonno13&show_icons=true&theme=tokyonight&bg_color=0,F58529,FEDA77,DD2A7B,8134AF,515BD4&text_color=black&icon_color=black&title_color=515BD4&border_color=515BD4)
@@ -32,8 +33,10 @@ height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?userna
 <br/>![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=emonno13.visitor-badge)](https://github.com/emonno13) 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/emonno13)
+![Followers](https://img.shields.io/github/followers/emonno13?style=social)
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working as a Front-end Developer in Ho Chi Minh City, Viet Nam
 - 🌱 I’m currently learning React, Typescript, React Native
-- 📫 How to reach me: [**Facebook**] (https://www.facebook.com/duykhanhkobocuoc/)
+<!-- - 📫 How to reach me: [**Facebook**] (https://www.facebook.com/duykhanhkobocuoc/) -->
+- 📫 How to reach me: <a href="https://www.facebook.com/duykhanhkobocuoc/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
