@@ -6,14 +6,10 @@
 &nbsp;❤ VueJS ❤ ReactJS ❤ React Native ❤
 
 
-
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emonno13&show_icons=true&theme=tokyonight&bg_color=0,F58529,FEDA77,DD2A7B,8134AF,515BD4&text_color=black&icon_color=black&title_color=515BD4&border_color=515BD4)
  -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emonno13&show_icons=true&theme=tokyonight)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emonno13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-  
 
 **Tech Stacks**
 
@@ -21,6 +17,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
@@ -47,6 +44,7 @@ Here are some ideas to get you started:
 ![Followers](https://img.shields.io/github/followers/emonno13?style=social)
 <!-- - 📫 How to reach me: [**Facebook**] (https://www.facebook.com/duykhanhkobocuoc/) -->
 - 📫Reach me by clicking icons below: 
+
 
 <a href="https://www.linkedin.com/in/khanh-nguyen-660425133/" target="_blank" style="text-decoration: none !important">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
