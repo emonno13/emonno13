@@ -42,12 +42,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Front-end Developer in Ho Chi Minh City, Viet Nam
 <!-- - 🌱 I’m currently learning React, Typescript, React Native -->
 <br/>![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=emonno13.visitor-badge)](https://github.com/emonno13) 
+<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=emonno13.visitor-badge)](https://github.com/emonno13) -->
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/emonno13)
 ![Followers](https://img.shields.io/github/followers/emonno13?style=social)
 <!-- - 📫 How to reach me: [**Facebook**] (https://www.facebook.com/duykhanhkobocuoc/) -->
 - 📫Reach me at: 
-
  
 <a style="text-decoration: none;" href="https://www.linkedin.com/in/khanh-nguyen-660425133/" target="_blank" >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
